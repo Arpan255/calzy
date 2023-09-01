@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/calzy/static/css/main.e591f407.css",
+    "main.js": "/calzy/static/js/main.ef179296.js",
+    "static/js/787.05180eac.chunk.js": "/calzy/static/js/787.05180eac.chunk.js",
+    "static/media/m.jpeg": "/calzy/static/media/m.0d20e65d6d5d05dcaff3.jpeg",
+    "index.html": "/calzy/index.html",
+    "main.e591f407.css.map": "/calzy/static/css/main.e591f407.css.map",
+    "main.ef179296.js.map": "/calzy/static/js/main.ef179296.js.map",
+    "787.05180eac.chunk.js.map": "/calzy/static/js/787.05180eac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e591f407.css",
+    "static/js/main.ef179296.js"
+  ]
+}
